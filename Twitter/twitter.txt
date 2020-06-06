@@ -1,4 +1,4 @@
-consumerKey r0lQcvlcuQk8ZbfE7nY8Vs70P
-consumerSecret jQLpiaS2uPfZV4aOTknbnlFrVQ1j7gQ95qKFIG1r5XvF66lLap
-accessToken 519384961-tvdVqNbYQl90yoavV7gR3GWRS97CuvfVRf7R69IZ
-accessTokenSecret jeMml3Qq4Q8MocUcO3LpCFuQ77kIglasPeXUvOQfoXq8f
+consumerKey 
+consumerSecret 
+accessToken 
+accessTokenSecret 
